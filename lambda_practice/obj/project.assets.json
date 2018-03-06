@@ -2781,7 +2781,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cblanco\\.nuget\\packages\\": {},
+    "C:\\Users\\Josué Morales\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -2790,17 +2790,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\cblanco\\source\\repos\\lambda_practice\\lambda_practice\\lambda_practice.csproj",
+      "projectUniqueName": "C:\\Users\\Josué Morales\\Documents\\AppsWeb\\2doParcial\\Trabajos\\lambda-practice\\lambda_practice\\lambda_practice.csproj",
       "projectName": "lambda_practice",
-      "projectPath": "C:\\Users\\cblanco\\source\\repos\\lambda_practice\\lambda_practice\\lambda_practice.csproj",
-      "packagesPath": "C:\\Users\\cblanco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cblanco\\source\\repos\\lambda_practice\\lambda_practice\\obj\\",
+      "projectPath": "C:\\Users\\Josué Morales\\Documents\\AppsWeb\\2doParcial\\Trabajos\\lambda-practice\\lambda_practice\\lambda_practice.csproj",
+      "packagesPath": "C:\\Users\\Josué Morales\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Josué Morales\\Documents\\AppsWeb\\2doParcial\\Trabajos\\lambda-practice\\lambda_practice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\cblanco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Josué Morales\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
